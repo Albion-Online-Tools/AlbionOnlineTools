@@ -2,7 +2,7 @@
 
 Welcome to the Official [Albion Online Tools](https://albiononlinetools.com/) Website repository
 
-AOT website is made to save your time and help you in every possible way to enjoy your Albion Online Experience
+AOT website is made to save your time and help you in every possible way to enjoy your Albion Online Experience.
 
 Link : https://albiononlinetools.com/
 
@@ -29,7 +29,7 @@ Link : https://albiononlinetools.com/
 ### What is Albion Online Tools ?
   Albion Online Tools is a website made to improve and enhance your Albion gaming experience by providing the community with valuable information and tools.
 ### Is Albion Online Tools Free ?
-Absolutely yes, it is totally free with ZERO Ads, We have made this website to show our love to Albion Community.
+Absolutely yes, it is totally free with 0 Ads, We made this website to show our love to Albion Community.
 ### Why do I need to make a login ?
   You don't have to create an account, but some features will need you to have an account such as Saving your favourite battle and other free features.
 You don't have to use the same login credentials as your Albion Online Account.
