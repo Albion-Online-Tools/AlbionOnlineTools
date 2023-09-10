@@ -7,6 +7,9 @@ AOT website is made to save your time and help you in every possible way to enjo
 Link : https://albiononlinetools.com/
 
 [![Discord](https://img.shields.io/discord/1095372949718048771?color=660033&label=Discord&logo=discord&logoColor=white&style=flat)](https://discord.gg/7pv5b8XWVy)
+<a target="_blank" href="https://discordapp.com/users/907731551431835658">
+    <img alt="Discord" src="https://img.shields.io/badge/legita-00006b.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
+</a>
 
 <p align="center" align='right'>
   <img src="https://github.com/LegitaDev/AlbionOnlineTools/assets/50632062/6effd36d-bc49-4796-b544-14c4a31654db" width="600" height="400" />
@@ -35,10 +38,6 @@ Absolutely yes, it is totally free with 0 Ads, We made this website to show our 
 You don't have to use the same login credentials as your Albion Online Account.
 ### How can I contact the owner ?
   You can always reach me on discord : legita
-
-<a target="_blank" href="https://discordapp.com/users/907731551431835658">
-    <img alt="Discord" src="https://img.shields.io/badge/legita-00006b.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
-</a>
 
 ## Contact Us
 You can reach us on Discord : [Click Here](https://discord.gg/7pv5b8XWVy)
